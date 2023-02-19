@@ -1,0 +1,123 @@
+/*Body CSS*/
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #2779a7;
+
+
+}
+/*HEX #2779a7 Blue      EX #49c5b6 sea freen        X #D14836 red */
+.student{
+    color: #ffea2e;
+
+   
+}
+h1{
+
+    margin: 50px auto 0 auto;
+    font-family: 'Sono', sans-serif;
+    font-size: 5.625rem;
+    color: #ffffff;
+
+}
+
+
+
+h2{
+    color: #fefefe;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #ffffff;
+}
+
+p{
+    line-height: 2;
+}
+hr{
+   
+    border:dotted #6b0000 6px;
+    border-bottom: none ;
+    width: 4%;
+    margin: 100px auto 100px auto;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+
+.top{
+    position: relative;
+    padding-top: 100px;
+    align-items:center;
+    border: 4px;
+   
+}
+
+
+.programmer{
+    height: 200px;
+    width: 350px;
+    padding-top: 100px;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+    color: #ffffff;
+}
+
+.debug{
+    height:100%;
+    width: 150px;
+    padding-top: 10px;
+      float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+
+.learning{
+    height: 150px;
+    width: 150px;
+    padding-top: 10px;
+   float: right;
+    margin-left: 30px;
+
+}
+
+.bottom-container{
+    background-color: #f29184;
+    padding: 50px 0 20px;
+    color: #ffffff;
+
+}
+
+
+    
+
+a{
+    color: #ffffff;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: #22b53d;
+
+}
+
+
+
+  
